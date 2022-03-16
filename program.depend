@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647046173 source:c:\users\pc\documents\itsco\matters\lógica y algóritmos\unidad 3\actividad de recuperación\ejercicio_2_enc++\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
