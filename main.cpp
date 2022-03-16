@@ -1,10 +1,3 @@
-/*Diseñar un programa modificando el ejemplo anterior que ingrese los datos correspondientes a
- todos los alumnos de primer año de informática utilizando un arreglo de estructuras y muestre
-  un menú donde se puedan seleccionar estas distintas opciones: (1)-Ingresar datos (2)-Mostrar
-   datos por alumno (3)-estadísticas que muestren cantidad de alumnos inscriptos, alumnos
-    regulares, porcentaje de aprobación, promocionados por curso y ejecutar las operaciones
-     de acuerdo a la opción elegida. Hacer diagrama de flujo, pseudocódigo y codificar en C++*/
-
 #include <iostream>
 #include <conio.h>
 #include <stdio.h>
@@ -66,7 +59,7 @@ int main (){
         cout << "\n\n\t 4. Salir" << endl;
         do{
             cout<<"\n\t\tIngrese una opcion [1-4]: ";
-            op=getche();//recibe inforamción directo del teclado
+            op=getche();//recibe inforamciÃ³n directo del teclado
         }while(op<'1'||op>'4');
         switch(op){
             case '1':
